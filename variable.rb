@@ -1,1 +1,1 @@
-greeting = puts("hello world")
+greeting = puts("greeting")
