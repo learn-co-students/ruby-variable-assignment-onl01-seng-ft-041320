@@ -1,1 +1,1 @@
-greeting = get_variable_from_file("hello world")
+greeting = puts("hello world")
